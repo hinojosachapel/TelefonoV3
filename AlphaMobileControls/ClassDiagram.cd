@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="AlphaMobileControls.AlphaControl" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaControl.cs</FileName>
+      <HashCode>AAAAAAAAAABAAgAAQAAAAAAABAABAAAIAAAACAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphaMobileControls.AlphaImage" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaImage.cs</FileName>
+      <HashCode>AAEIAAAAAAAAAgAEAAAAAEAAAAAAQBAAAAAAAAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphaMobileControls.AlphaImageButton" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaImageButton.cs</FileName>
+      <HashCode>AAAAAAACAABEAgBGAACAIASQAAAAABAABAAgAQAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphaMobileControls.AlphaLabel" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaLabel.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphaMobileControls.AlphaPanel" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaPanel.cs</FileName>
+      <HashCode>AQCABAAAACAAAAAAQACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphaMobileControls.AlphaPictureBox" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaPictureBox.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAgAEAAAAAAAAAAAAQBAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformAPI.DrawingAPI" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformAPI.AlphaBlend" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlphaMobileControls.AlphaForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AlphaForm.cs</FileName>
+      <HashCode>AQCABAAAACAAAAAAQACAAAACAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PlatformAPI.BlendFunction" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAAACAAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlatformAPI.BitmapData" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>AAAAAAAABAgAAAAEAAAAAEAAAAAAAQAAAAAAEAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlatformAPI.ImageInfo" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>AAAABgAABAQAAQAAAAAAAGAAAAAAAAAAAAAAAQAAABA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="PlatformAPI.IImagingFactory" Collapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>BAAAAAQAAAAAAQAQAAAAAAAAAAIoIIAAAAwAAAAQIAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PlatformAPI.IImage" Collapsed="true">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>gBGAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PlatformAPI.IBitmapImage" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAAAIAKAAAAAAAAAAAAAEAAAIAAAAAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PlatformAPI.BlendOperation" Collapsed="true">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlatformAPI.BlendFlags" Collapsed="true">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlatformAPI.SourceConstantAlpha" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlatformAPI.AlphaFormat" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\AlphaBlend.cs</FileName>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlatformAPI.PixelFormatID" Collapsed="true">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>VQAAAAAAAAAEQCAAABgQRAAAABAAAAIAAAAAACAACII=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlatformAPI.BufferDisposalFlag" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>AAAAAAgBAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlatformAPI.InterpolationHint" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlatformAPI\IImagingFactory.cs</FileName>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAIAAAAACAQABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
